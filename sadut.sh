@@ -22,7 +22,7 @@ figlet *Mr.YM* |lolcat
 
 echo $c "    _________________________________   ${endc}";
 echo $c "   /                                 \  ${endc}";
-echo $c "  /   https://github.com/MaulanaRyM   \ ${endc}";
+echo $c "  /   https://github.com/CyberDomba   \ ${endc}";
 echo $c " /_____________________________________\ ${endc}";
 echo $c " |      __     ___________     __      | ${endc}";
 echo $c " |     |  |    |    |    |    |  |     | ${endc}";
@@ -30,9 +30,9 @@ echo $c " |      --     |   .|.   |     --      | ${endc}";
 echo $c " ======================================= ${endc}";
 
 echo  "+===========================================+" |lolcat
-echo  "+ Team     : Army Cyber Network $white            + " |lolcat
-echo  "+ Author   : Mr.YM $white                         + " |lolcat
-echo  "+ Youtube  : Maulana RyM $white                   + " |lolcat
+echo  "+ Team     : Cyber Domba $white            + " |lolcat
+echo  "+ Author   : MR.SADUT $white                         + " |lolcat
+echo  "+ Youtube  : Cyber Domba $white                   + " |lolcat
 echo  "+===========================================+" |lolcat
 
 echo $r"•••••••••••••••••••••••••••••••••••••••••••••${endc}";
@@ -44,7 +44,7 @@ ctrl_c() {
 clear
 echo  $red"[#]> (Ctrl + C ) Detected,
 Trying To Exit ... "
-echo  $cyan"[#]> Subscribe chanel MaulanaRyM"
+echo  $cyan"[#]> Subscribe chanel Cyber Domba"
 sleep 1
 echo ""
 echo  $white"[#]> semoga bermanfaat :)"
@@ -789,12 +789,12 @@ python2 main.py
 #Upgrade Versi
 
 50) echo $r "Maaf, Versi 2 Belum Tersedia"
-echo $c "Akan ada pengumumannya di Chanel MaulanaRyM !"
+echo $c "Akan ada pengumumannya di Chanel Cyber Domba !"
 echo "Terima Kasih :)" |lolcat
 
 ;;
 
-00) echo "created by : <==MaulanaRyM==>" |lolcat
+00) echo "created by : <==Cyber Domba ==>" |lolcat
 exit
 
 ;;
