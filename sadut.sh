@@ -1,6 +1,6 @@
 #!/bin/bash
 #Jgn di recode om,cape buatnya
-#subscribe dolo ea gayn: https://www.youtube.com/c/MAULANARyM
+#subscribe dolo ea gayn: 
 
 
 b="\033[1m"
@@ -16,7 +16,7 @@ endc="\033[0m"
 enda="\033[0m"
 blue="\033[1;34m"
 cyan="\033[1;36m"
-red="\033[1;31m"
+red="\033[1;31m" Chenel Youtube "Cyber Domba"
 
 figlet *Mr.YM* |lolcat
 
@@ -31,8 +31,8 @@ echo $c " ======================================= ${endc}";
 
 echo  "+===========================================+" |lolcat
 echo  "+ Team     : Cyber Domba $white            + " |lolcat
-echo  "+ Author   : MR.SADUT $white                         + " |lolcat
-echo  "+ Youtube  : Cyber Domba $white                   + " |lolcat
+echo  "+ Author   : MR.SADUT $white               + " |lolcat
+echo  "+ Youtube  : Cyber Domba $white            + " |lolcat
 echo  "+===========================================+" |lolcat
 
 echo $r"•••••••••••••••••••••••••••••••••••••••••••••${endc}";
